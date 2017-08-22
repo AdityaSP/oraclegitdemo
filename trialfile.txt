@@ -3,3 +3,4 @@ file from local
 A test file created
 line added from remote
 somechange
+some change from proj1
