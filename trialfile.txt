@@ -3,7 +3,12 @@ file from local
 A test file created
 line added from remote
 somechange
+
 some change from proj1
 from b2
 new line
 myaddition
+some change from proj1
+from b2
+new line
+new change
