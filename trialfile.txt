@@ -6,3 +6,4 @@ somechange
 some change from proj1
 from b2
 new line
+myaddition
